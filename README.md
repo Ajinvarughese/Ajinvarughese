@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ajinvarughese@gmail.com**
 
-- 📄 Know about my experiences [ajinvarughese.github.io/resource/AJINVARUGHESE.pdf](ajinvarughese.github.io/resource/AJINVARUGHESE.pdf)
+- 📄 Know about my experiences [ajinvarughese.github.io/resource/AJINVARUGHESE.pdf](https://ajinvarughese.github.io/resource/AJINVARUGHESE.pdf)
 
 - ⚡ Fun fact **I think I'm good at programming**
 
