@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 👨‍💻 My portfolio [ajinvarughese.github.io](ajinvarughese.github.io)
+- 👨‍💻 My portfolio [ajinvarughese.github.io](https://ajinvarughese.github.io)
 
 - 💬 Ask me about **Java, PHP, Python**
 
