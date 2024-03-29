@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, PHP, Python**
 
-- 📫 How to reach me <a href='mailto:ajinvarughese91@gmail.com'>**ajinvarughese@gmail.com**</a>
+- 📫 How to reach me <a href='mailto:ajinvarughese91@gmail.com'>ajinvarughese91@gmail.com</a>
 
 - 📄 Know about my experiences [ajinvarughese.github.io/resource/AJINVARUGHESE.pdf](https://ajinvarughese.github.io/resource/AJINVARUGHESE.pdf)
 
