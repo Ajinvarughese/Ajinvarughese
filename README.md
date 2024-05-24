@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/ajin_varughese" target="blank"><img src="https://img.shields.io/twitter/follow/ajin_varughese?logo=twitter&style=for-the-badge" alt="ajin_varughese" /></a> </p>
 
 
-- 🔭 I’m currently working on **new project:**
+- 🔭 I’m currently working on **new project:** [HMS using Java SpringBoot](github.com/Ajinvarughese/HMS/)
 
 - 🌱 I’m currently learning **Android development**
 
