@@ -10,7 +10,7 @@
 
 - 👨‍💻 My portfolio [ajinvarughese.github.io](https://ajinvarughese.github.io)
 
-- 💬 Ask me about **Java, PHP, Python**
+- 💬 Ask me about **Java, ReactJS, PHP**
 
 - 📫 How to reach me <a href='mailto:ajinvarughese91@gmail.com'>ajinvarughese91@gmail.com</a>
 
