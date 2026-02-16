@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/ajin_varughese" target="blank"><img src="https://img.shields.io/twitter/follow/ajin_varughese?logo=twitter&style=for-the-badge" alt="ajin_varughese" /></a> </p>
 
 
-- 🔭 I’m currently working on a **new project:** [finance app](https://github.com/Ajinvarughese/financeapp-backend)
+- 🔭 I’m currently working on a **new project:** [disease prediction app](https://github.com/Ajinvarughese/medizio-backend)
 
 - 🌱 I’m currently learning **Android development**
 
